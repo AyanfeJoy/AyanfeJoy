@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanfejoy" alt="ayanfejoy" /></a> </p>
 
-- 🔭 I’m currently working on **Hybrid Recommendation Project**
+- 🔭 I’m currently working on **Hybrid Recommendation System**
 
 - 🌱 I’m currently learning **AI**
 
